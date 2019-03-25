@@ -1,6 +1,11 @@
 # Investigate-Movie-Dataset
 
-Please open https://github.com/RyMey/Investigate-Movie-Dataset/blob/master/investigate-a-dataset-movie.ipynb to see the full code.
+Please open :
+1. https://htmlpreview.github.io/?https://github.com/RyMey/Investigate-Movie-Dataset/blob/master/documentation/investigate-a-dataset-movie.html to see the full code in <b> html version </b>, or
+2. https://github.com/RyMey/Investigate-Movie-Dataset/blob/master/investigate-a-dataset-movie.ipynb to see the full code in <b> ipython version </b>.
+
+I recommended to open the <b> html version </b> or open it in your personal jupyter notebook because I don't know some how the tables or markdowns are not rendered perfectly in github ipython preview.
+
 ## Introduction
 In this project I use Movie Data. This dataset contains information about 10,000 movies collected from The Movie Database (TMDb). Contains data such as title, cast, director, runtime, budget, revenue, release year etc.
 ## Research Question
